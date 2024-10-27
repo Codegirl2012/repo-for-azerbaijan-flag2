@@ -1,0 +1,28 @@
+* {
+   text-decoration: underline;
+}
+
+/* THIS CODE IS FOR ALL */
+
+image {
+   width: 50%;
+   height: 500px;
+}
+
+/* THIS CODE IS FOR SIZE OF VIDEO AND PICTURE */
+
+.AZER {
+   color: blue;
+}
+
+.BAIJAN {
+   color: red;
+}
+
+.FLAG {
+   color: green;
+}
+
+iframe {
+   width: 500px;
+}
